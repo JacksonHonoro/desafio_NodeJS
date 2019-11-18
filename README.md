@@ -1,6 +1,6 @@
 # Desafio NodeJS
 
-Desafio NodeJS:
+
 
 Crie uma lista de tarefas (array).
 
